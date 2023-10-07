@@ -63,9 +63,9 @@ nav {
 
 .circle {
     position: absolute;
-    top: 100px;
+    top: 25px;
     right: 0;
-    width: 45%;
+    width: 30%;
     z-index: 1;
 }
 
